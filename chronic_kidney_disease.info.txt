@@ -2,21 +2,21 @@
 %
 % 
 % 2.Relevant Information:
-			race - race
-      gender - gender
-      age		-	age	
-			dbp		-	diastolic blood pressure
-			sbp		-	systolic blood pressure
-      hgb		-	hemoglobin
-			ctn		-	creatinine
-			gc  	-	glucose
-			ldl		-	low density lipoproteins
-			meds	-	medications
-			class	-	class	
+	race 	- 	race
+      	gender 	- 	gender
+     	age 	-	age	
+	dbp	-	diastolic blood pressure
+	sbp	-	systolic blood pressure
+     	hgb	-	hemoglobin
+	ctn	-	creatinine
+	gc  	-	glucose
+	ldl	-	low density lipoproteins
+	meds	-	medications
+	class	-	class	
 
 % 4.Number of Instances:  300 (100 CKD, 200 notckd)
 %
-% 5.Number of Attributes: 24 + class = 25 ( 11  numeric ,14  nominal) 
+% 5.Number of Attributes: 10 + class = 11 ( 7  numeric ,4  nominal) 
 %
 % 6.Attribute Information :
  	1.Race(nominal)
@@ -31,7 +31,7 @@
 	       	sbp in mm/Hg
  	6.Hemoglobin(numerical)
 		      hgb in gms
-  7.Creatinine(numerical)
+  	7.Creatinine(numerical)
 		      hemo in gms
  	8.Glucose(numerical)
 		      gc in cells/cumm
