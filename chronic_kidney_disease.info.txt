@@ -1,0 +1,51 @@
+% 1. Title: Chronic Kidney Disease(CKD) Information
+%
+% 
+% 2.Relevant Information:
+			race - race
+      gender - gender
+      age		-	age	
+			dbp		-	diastolic blood pressure
+			sbp		-	systolic blood pressure
+      hgb		-	hemoglobin
+			ctn		-	creatinine
+			gc  	-	glucose
+			ldl		-	low density lipoproteins
+			meds	-	medications
+			class	-	class	
+
+% 4.Number of Instances:  300 (100 CKD, 200 notckd)
+%
+% 5.Number of Attributes: 24 + class = 25 ( 11  numeric ,14  nominal) 
+%
+% 6.Attribute Information :
+ 	1.Race(nominal)
+  	race - (white/black/hispanic/asian)
+ 	2.Gender(nominal)
+  	gender - (male/female)
+ 	3.Age(numerical)
+  	  	  age in years
+ 	4.Diastolic blood Pressure(numerical)
+	       	dbp in mm/Hg
+ 	5.Systolic blood Pressure(numerical)
+	       	sbp in mm/Hg
+ 	6.Hemoglobin(numerical)
+		      hgb in gms
+  7.Creatinine(numerical)
+		      hemo in gms
+ 	8.Glucose(numerical)
+		      gc in cells/cumm
+ 	9.Low-density Lipoproteins(numerical)	
+		      ldl in millions/cmm
+ 	10.Medications(nominal)
+		meds
+ 	11.Class (nominal)		
+		class - (ckd,notckd)
+
+%7. Missing Attribute Values: Yes(Denoted by "?")
+%
+%8. Class Distribution: ( 2 classes)
+    		Class 	  Number of instances
+    		ckd          	  100
+    		notckd       	  200   
+     
