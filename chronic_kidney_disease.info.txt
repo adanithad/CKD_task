@@ -14,7 +14,7 @@
 	meds	-	medications
 	class	-	class	
 
-% 4.Number of Instances:  300 (100 CKD, 200 notckd)
+% 4.Number of Instances:  300 (100 ckd, 200 notckd)
 %
 % 5.Number of Attributes: 10 + class = 11 ( 7  numeric ,4  nominal) 
 %
