@@ -36,7 +36,7 @@
  	8.Glucose(numerical)
 		      gc in cells/cumm
  	9.Low-density Lipoproteins(numerical)	
-		      ldl in millions/cmm
+		      ldl in mg/dL
  	10.Medications(nominal)
 		meds
  	11.Class (nominal)		
