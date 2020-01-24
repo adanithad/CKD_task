@@ -1,4 +1,4 @@
 # Chronic Kidney Disease Predictor
 
-A manually programmed Logistic Regression implementation of a Chronic Kidney Disease predictor, which predicts whether a given patient does or does not possess a chronic kidney disease.
+A manually programmed Chronic Kidney Disease predictor, which evaluates the prediction accuracy of whether a given patient does or does not possess a chronic kidney disease.
 
